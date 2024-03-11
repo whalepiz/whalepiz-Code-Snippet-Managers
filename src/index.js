@@ -1,4 +1,4 @@
-// Install required packages:
+/// Install required packages:
 // npm install fs-extra inquirer --save
 
 const fs = require('fs-extra');

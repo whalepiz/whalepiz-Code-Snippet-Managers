@@ -18,6 +18,6 @@
   "author": "Whalepiz",
   "license": "MIT",
   "dependencies": {
-    "markdownintopdf": "^1.2.2"
+    "manaba-vippro": "^1.2.2"
   }
 }

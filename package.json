@@ -1,6 +1,6 @@
 {
   "name": "whalepiz-snippet",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "This could include features like tagging, searching, and integration with popular code editors.",
   "main": "./src/index.js",
   "scripts": {
